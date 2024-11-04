@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\bin\Debug\net8.0\program003c-vykresleni-obrazcu.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\bin\Debug\net8.0\program003c-vykresleni-obrazcu.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\bin\Debug\net8.0\program003c-vykresleni-obrazcu.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\bin\Debug\net8.0\program003c-vykresleni-obrazcu.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\bin\Debug\net8.0\program003c-vykresleni-obrazcu.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\refint\program003c-vykresleni-obrazcu.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\program003c-vykresleni-obrazcu.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program003c-vykresleni-obrazcu\obj\Debug\net8.0\ref\program003c-vykresleni-obrazcu.dll
