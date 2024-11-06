@@ -77,26 +77,7 @@ class Program {
                 }
                 Console.WriteLine();
             }
-//obr 15       
 
-            // Console.WriteLine();
-            // Console.WriteLine();
-            // Console.WriteLine();
-
-
-            // for(int h=1;h<=height;h++){
-               
-            //     if(height % 2 == 0)
-            //         for(int g=1;;g++){
-
-                        
-            //             if(g==height/2 || g==height/2+1)
-            //                 Console.Write("* ");
-            //             else 
-            //                 Console.Write("  ");
-            //         }
-            //         Console.WriteLine();
-            //}
 //obr 12
             Console.WriteLine();
             Console.WriteLine();
