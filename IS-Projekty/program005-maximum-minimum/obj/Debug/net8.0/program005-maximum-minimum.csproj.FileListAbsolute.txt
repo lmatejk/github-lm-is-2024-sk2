@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\bin\Debug\net8.0\program005-maximum-minimum.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\bin\Debug\net8.0\program005-maximum-minimum.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\bin\Debug\net8.0\program005-maximum-minimum.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\bin\Debug\net8.0\program005-maximum-minimum.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\bin\Debug\net8.0\program005-maximum-minimum.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\refint\program005-maximum-minimum.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\program005-maximum-minimum.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program005-maximum-minimum\obj\Debug\net8.0\ref\program005-maximum-minimum.dll
