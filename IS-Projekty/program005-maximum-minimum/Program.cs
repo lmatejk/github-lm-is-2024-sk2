@@ -46,14 +46,14 @@ class Program {
             Console.WriteLine("Náhodná čísla: ");
             for(int i = 0; i < n;i++){
                 myArray[i] = randomNumber.Next(dm, hm);
-                Console.WriteLine("{0}", myArray[i]);
+                Console.Write("{0} ", myArray[i]);
             }
             int max = myArray[0];
             int min = myArray[0];
             int posMax = 0;
             int posMin = 0;
-            int countMax = 0;
-            int countMin = 0;
+            int maxCount = 0;
+            int minCount = 0;
                 
                 
             for(int i = 1;i < n;i++){
@@ -68,13 +68,50 @@ class Program {
                 }
             }
 
+            for(int i = 0;i < n;i++){
+                if(myArray[i]==max){
+                    maxCount++;
+        
+                }
 
+                if(myArray[i]==min){
+                    minCount++;
+                }
+            }
+            int[]posMaxArray = new int[maxCount];
+            int[]posMinArray = new int[minCount];
             
+            int posi1 = 0;
+            int posi2 = 0;
+            for(int j = 0;j <n;j++){
+                if (myArray[j]==max){
+                    posMax = j;
+                    posMaxArray[posi1] = posMax;
+                    posi1++;
+                    
+                }
+                if (myArray[j]==min){
+                    posMin = j;
+                    posMinArray[posi2] = posMin;
+                    posi2++;
+                }
+            }
+            Console.WriteLine();
             Console.WriteLine("Maximum je: {0}", max);
-            Console.WriteLine("Pozice maxima: {0}", posMax);
-            Console.WriteLine("Minimum je: {0}", min);
-            Console.WriteLine("Pozice minima: {0}", posMin);
+            Console.WriteLine("Počet max. hodnot: {0}", maxCount);
+            Console.Write("Pozice max. hodnot: ");
+            for(int i = 0;i < maxCount;i++){
+                Console.Write("{0} ", posMaxArray[i]);
 
+            }
+            Console.WriteLine();
+            Console.WriteLine("Minimum je: {0}", min);
+            Console.WriteLine("Počet min. hodnot: {0}", minCount);
+            Console.Write("Pozice min. hodnot: ");
+            for(int i = 0;i < minCount;i++){
+                Console.Write("{0} ", posMinArray[i]);
+            }
+            Console.WriteLine();
 
 
             Console.WriteLine("Pro opakování programu stiskněte klávesu a");
