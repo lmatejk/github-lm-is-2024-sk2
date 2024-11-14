@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\refint\program007-bubble-sort.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program007-bubble-sort\obj\Debug\net8.0\ref\program007-bubble-sort.dll
