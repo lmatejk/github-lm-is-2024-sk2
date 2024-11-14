@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\refint\program009-array-reversing.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program009-array-reversing\obj\Debug\net8.0\ref\program009-array-reversing.dll
