@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\bin\Debug\net8.0\program008-other-sorting-algorithms.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\bin\Debug\net8.0\program008-other-sorting-algorithms.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\bin\Debug\net8.0\program008-other-sorting-algorithms.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\bin\Debug\net8.0\program008-other-sorting-algorithms.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\bin\Debug\net8.0\program008-other-sorting-algorithms.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\refint\program008-other-sorting-algorithms.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\program008-other-sorting-algorithms.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program008-other-sorting-algorithms\obj\Debug\net8.0\ref\program008-other-sorting-algorithms.dll
