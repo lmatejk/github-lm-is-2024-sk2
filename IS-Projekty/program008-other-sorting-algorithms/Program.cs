@@ -123,24 +123,17 @@ class Program {
 
 //shell sort
 
-            int gap = n;
-            for(int i =0;i < n;i++){
-                gap = gap/2;
-                for(int j = i+gap;j <n-1;j++){
-                    if(j>i){
-                        for(int l = j;l>=-1;l =l - gap){
-                            int tmp = myArray[j];
-                            int pos = l;
-                            
-                            for(int k = i;l > pos+gap;k =k-gap){
-                                myArray[l] = myArray[l-gap];
-                            }
-                        }        
-                        myArray[l-gap] = tmp;
-                       }
-                        
-                    }       
-                }
+            
+            for(int gap =n;gap!=0;gap=gap/2){
+                for(int i =gap;i<n;i++){
+                    int tmp = myArray[i];
+                    int j;
+                    for(j = i;j >= gap && myArray[j-gap]<tmp; j=j-gap){
+                        myArray[j] = myArray[j - gap];
+                    }
+                    myArray[j] = tmp;
+                }   
+            }
             
 
             Console.WriteLine();
