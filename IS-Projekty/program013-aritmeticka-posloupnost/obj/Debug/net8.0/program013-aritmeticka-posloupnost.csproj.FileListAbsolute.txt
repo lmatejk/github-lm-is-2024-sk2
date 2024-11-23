@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\bin\Debug\net8.0\program013-aritmeticka-posloupnost.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\bin\Debug\net8.0\program013-aritmeticka-posloupnost.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\bin\Debug\net8.0\program013-aritmeticka-posloupnost.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\bin\Debug\net8.0\program013-aritmeticka-posloupnost.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\bin\Debug\net8.0\program013-aritmeticka-posloupnost.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\refint\program013-aritmeticka-posloupnost.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\program013-aritmeticka-posloupnost.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program013-aritmeticka-posloupnost\obj\Debug\net8.0\ref\program013-aritmeticka-posloupnost.dll
