@@ -1,0 +1,15 @@
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.exe
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.deps.json
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.runtimeconfig.json
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.dll
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.pdb
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.AssemblyInfo.cs
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.sourcelink.json
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.dll
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\refint\program014a-10to2.dll
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.pdb
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.genruntimeconfig.cache
+C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\ref\program014a-10to2.dll
