@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\bin\Debug\net8.0\program011b-vypocet-konstant.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\bin\Debug\net8.0\program011b-vypocet-konstant.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\bin\Debug\net8.0\program011b-vypocet-konstant.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\bin\Debug\net8.0\program011b-vypocet-konstant.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\bin\Debug\net8.0\program011b-vypocet-konstant.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\refint\program011b-vypocet-konstant.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\program011b-vypocet-konstant.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program011b-vypocet-konstant\obj\Debug\net8.0\ref\program011b-vypocet-konstant.dll
