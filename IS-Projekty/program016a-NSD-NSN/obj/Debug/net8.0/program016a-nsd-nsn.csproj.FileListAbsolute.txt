@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\bin\Debug\net8.0\program016a-nsd-nsn.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\bin\Debug\net8.0\program016a-nsd-nsn.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\bin\Debug\net8.0\program016a-nsd-nsn.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\bin\Debug\net8.0\program016a-nsd-nsn.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\bin\Debug\net8.0\program016a-nsd-nsn.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\refint\program016a-nsd-nsn.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\program016a-nsd-nsn.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program016a-NSD-NSN\obj\Debug\net8.0\ref\program016a-nsd-nsn.dll
