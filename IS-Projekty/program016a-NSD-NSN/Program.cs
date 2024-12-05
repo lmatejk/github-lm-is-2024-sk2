@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-
+//vypsat prvocisla - bude v zapoctu
 class Program {
     static void Main() {
         //chci, aby se program opakoval po stisku klávesy "a"
