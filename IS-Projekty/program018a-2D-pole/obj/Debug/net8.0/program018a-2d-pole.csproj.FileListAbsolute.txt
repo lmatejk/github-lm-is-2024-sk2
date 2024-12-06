@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2d-pole.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2d-pole.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2d-pole.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2d-pole.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\bin\Debug\net8.0\program018a-2d-pole.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\refint\program018a-2d-pole.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\program018a-2d-pole.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program018a-2D-pole\obj\Debug\net8.0\ref\program018a-2d-pole.dll
