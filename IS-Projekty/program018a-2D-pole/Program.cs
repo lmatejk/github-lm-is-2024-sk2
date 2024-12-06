@@ -16,14 +16,14 @@ class Program {
             Console.WriteLine();     
 
             Console.Write("Zadejte počet řádků (celé číslo): ");
-            int rowNo;
-            while(!int.TryParse(Console.ReadLine(),out rowNo)) {
+            int m;
+            while(!int.TryParse(Console.ReadLine(),out m)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu počet řádků (celé číslo): ");
             }
             
             Console.Write("Zadejte počet sloupců (celé číslo): ");
-            int colNo;
-            while(!int.TryParse(Console.ReadLine(),out colNo)) {
+            int n;
+            while(!int.TryParse(Console.ReadLine(),out n)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu počet sloupců (celé číslo): ");
             }
 
@@ -45,15 +45,15 @@ class Program {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu hledané číslo (celé číslo): ");
             }
 
-            int[,]pole = new int[rowNo,colNo];
+            int[,]pole = new int[m,n];
             int count = 0;
 
             Random randomNumber = new Random();
 
 
             Console.WriteLine("Náhodná čísla: ");
-            for(int i = 0; i < rowNo;i++){
-                for(int j = 0;j < colNo;j++){
+            for(int i = 0; i < m;i++){
+                for(int j = 0;j < n;j++){
                     pole[i,j] = randomNumber.Next(dm,hm);
                     if(pole[i,j]==hledaneCislo){
                         count++;
