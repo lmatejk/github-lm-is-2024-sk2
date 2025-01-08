@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.Reflection.Metadata;
 using System.Security.Cryptography;
 
 class Program {
@@ -13,7 +14,7 @@ class Program {
             Console.WriteLine("*****************Zapoctovy test****************");
             Console.WriteLine("***********************************************");
             Console.WriteLine("*****************Lucie Matějková***************");
-            Console.WriteLine("************************************************\n\n");     
+            Console.WriteLine("***********************************************\n\n");     
             Console.WriteLine();     
             
             Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
@@ -50,12 +51,14 @@ class Program {
                 Console.WriteLine("{0}", myArray[i]);
             }
             
-            
+            // maximum a minimum + jejich pozice            
             int max = dm;
+            int maxCount = 0;
+            int[]maxPos = new int[maxCount];
             int min = hm;
-           
+            int minCount = 0;
+            int[] minPos = new int[minCount];
 
-// maximum a minimum
             for(int i =0;i <n;i++){
                 if(myArray[i]>max){
                     max = myArray[i];
@@ -63,28 +66,67 @@ class Program {
                     min = myArray[i];
                 }
             }
-// druhy, treti a ctvry nejvetsi       
-            int second;
-            int third;
-            int fourth;
-            int median;
+            Console.WriteLine("");
+            Console.WriteLine("");
 
-//shaker sort
-            for(int i = 0;i < n-1;i++){
-                if(myArray[i]<myArray[i+1]){
-                    int tmp = myArray[i];
-                    myArray[i] = myArray[i+1];
-                    myArray[i+1] = tmp; 
+            //shaker sort
+            for(int i =0;i < n;i++){
+                for(int k = i; k<n-1;k++) {   
+                    if(myArray[k] < myArray[k+1]){
+                        int tmp = myArray[k];
+                        myArray[k]= myArray[k+1];
+                        myArray[k+1] = tmp;
+                    }
                 }
+                for(int j = n-i-1;j > i;j--){
+                    if(myArray[j] > myArray[j-1]){
+                        int tmp = myArray[j];
+                        myArray[j] = myArray[j-1];
+                        myArray[j-1] = tmp;
+                    }
+                }
+            }
+
+            Console.WriteLine("Seřazený pole: ");
+            for(int i = 0; i < n;i++){
+                Console.Write("{0}, ", myArray[i]);
             }
 
 
 
+            // druhy, treti a ctvrty nejvetsi 
+            int largestNumbers = 4;      
+            int[] largestArray = new int [largestNumbers];
+            largestArray[0] = max;
+            for(int i = 0;i < largestNumbers;i++){
+                for(int j = 1; j < n;j++){
+                    if(myArray[j] < myArray[j-1]){
+                        largestArray[j] = myArray[j];
+                        break;
+                    }
+                }
+            }
 
+            //median
+            int median;
+            median = myArray[n/2];
 
+            //ctvrte nejvetsi do 2 soustavy
 
+            int[]binaryArray = new int[32];
+            int reminder;
+            int binaryN = largestArray[3];
 
-
+            for(int i = 0;i < 32;i++){
+                reminder = binaryN % 2;
+                binaryArray[i] = reminder;
+                binaryN = (binaryN-reminder)/2;
+                if(binaryN == 0){
+                    break;
+                }
+                
+            }
+            
 
 
             //obrazec

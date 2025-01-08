@@ -13,3 +13,18 @@ C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program015a-
 C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.pdb
 C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.genruntimeconfig.cache
 C:\Users\Uzivatel\Documents\IS LM\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\ref\program015a-kombinovana-uloha.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\bin\Debug\net9.0\program015a-kombinovana-uloha.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\bin\Debug\net9.0\program015a-kombinovana-uloha.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\bin\Debug\net9.0\program015a-kombinovana-uloha.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\bin\Debug\net9.0\program015a-kombinovana-uloha.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\bin\Debug\net9.0\program015a-kombinovana-uloha.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\refint\program015a-kombinovana-uloha.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\program015a-kombinovana-uloha.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program015a-kombinovana-uloha\obj\Debug\net9.0\ref\program015a-kombinovana-uloha.dll
