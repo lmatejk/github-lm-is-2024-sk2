@@ -1,0 +1,15 @@
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\bin\Debug\net9.0\program019a-vanocni-kombinovana.exe
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\bin\Debug\net9.0\program019a-vanocni-kombinovana.deps.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\bin\Debug\net9.0\program019a-vanocni-kombinovana.runtimeconfig.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\bin\Debug\net9.0\program019a-vanocni-kombinovana.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\bin\Debug\net9.0\program019a-vanocni-kombinovana.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.AssemblyInfoInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.AssemblyInfo.cs
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.csproj.CoreCompileInputs.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.sourcelink.json
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\refint\program019a-vanocni-kombinovana.dll
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.pdb
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\program019a-vanocni-kombinovana.genruntimeconfig.cache
+C:\Users\Lucka\Downloads\Dokumenty\TUL\Prvak\Informace_a_systemy\github-lm-is-2024-sk2\IS-Projekty\program019a-vanocni-kombinovana\obj\Debug\net9.0\ref\program019a-vanocni-kombinovana.dll
