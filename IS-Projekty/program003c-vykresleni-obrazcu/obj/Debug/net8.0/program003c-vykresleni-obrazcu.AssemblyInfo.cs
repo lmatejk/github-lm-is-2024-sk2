@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program003c-vykresleni-obrazcu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca780b4acd7bd456eab5dc7805554eff06933f2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b45b06809620399254d57ee290d903a27f7c0766")]
 [assembly: System.Reflection.AssemblyProductAttribute("program003c-vykresleni-obrazcu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program003c-vykresleni-obrazcu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
